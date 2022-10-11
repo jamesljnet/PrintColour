@@ -18,3 +18,7 @@ Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Gray;
 Console.WriteLine("--> Print Gray");
 Console.ResetColor();
+
+Console.ForegroundColor = ConsoleColor.Cyan;
+Console.WriteLine("--> Print Cyan");
+Console.ResetColor();
