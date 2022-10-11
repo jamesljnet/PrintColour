@@ -23,6 +23,6 @@ Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine("--> Print Cyan");
 Console.ResetColor();
 
-Console.ForegroundColor = ConsoleColor.DarkBlue;
-Console.WriteLine("--> Print Dark Blue");
+Console.ForegroundColor = ConsoleColor.DarkMagenta;
+Console.WriteLine("--> Print Dark Magenta");
 Console.ResetColor();
